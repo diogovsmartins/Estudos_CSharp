@@ -1,0 +1,16 @@
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.csproj.AssemblyReference.cache
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.AssemblyInfoInputs.cache
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.AssemblyInfo.cs
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.csproj.CoreCompileInputs.cache
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/projetodetestes
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/projetodetestes.deps.json
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/projetodetestes.runtimeconfig.json
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/projetodetestes.runtimeconfig.dev.json
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/projetodetestes.dll
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/ref/projetodetestes.dll
+/home/diogo/dev/estudosDotNet/testes/bin/Debug/net5.0/projetodetestes.pdb
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.dll
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/ref/projetodetestes.dll
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.pdb
+/home/diogo/dev/estudosDotNet/testes/obj/Debug/net5.0/projetodetestes.genruntimeconfig.cache
