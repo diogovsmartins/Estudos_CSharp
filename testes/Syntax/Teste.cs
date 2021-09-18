@@ -1,6 +1,6 @@
 using System;
 namespace teste{
-    class Program{
+    class Teste{
          const int constant=10; //constants are created using const + variable type + name and a value that matches the type of the variable.
         public static void Main (String[]args){
             Console.WriteLine("hello world");//method to print strings
